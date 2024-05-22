@@ -63,18 +63,3 @@ Siga as instruções abaixo para configurar e executar o aplicativo localmente.
 3. Pressione o botão "Pausar" para pausar o cronômetro.
 4. Pressione o botão "Reiniciar" para zerar o cronômetro.
 5. A última corrida será salva e exibida após limpar o temporizador.
-
-## Estrutura do Código
-
-Abaixo está uma breve descrição da estrutura do código do aplicativo:
-
-```plaintext
-├── App.js              # Componente principal do aplicativo
-├── components          # Componentes reutilizáveis
-│   ├── Timer.js        # Componente do cronômetro
-│   └── LastRun.js      # Componente que exibe a última corrida
-├── utils               # Funções utilitárias e helpers
-│   └── storage.js      # Funções para salvar e recuperar dados do AsyncStorage
-├── assets              # Imagens e outros recursos estáticos
-└── styles              # Estilos do aplicativo
-    └── styles.js       # Arquivo de estilos principal

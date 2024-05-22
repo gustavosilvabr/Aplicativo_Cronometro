@@ -63,3 +63,19 @@ Siga as instruções abaixo para configurar e executar o aplicativo localmente.
 3. Pressione o botão "Pausar" para pausar o cronômetro.
 4. Pressione o botão "Reiniciar" para zerar o cronômetro.
 5. A última corrida será salva e exibida após limpar o temporizador.
+
+## Capturas de Tela
+
+<img width="221" alt="app cronometro1" src="https://github.com/gustavosilvabr/Aplicativo_Cronometro/assets/79516858/8624dc21-47b9-49a0-bd01-9cc0c203832c">
+<img width="221" alt="app cronometro2" src="https://github.com/gustavosilvabr/Aplicativo_Cronometro/assets/79516858/2e24b292-6efa-4aa8-bbb0-787e9aebb1e6">
+<img width="221" alt="app cronometro3" src="https://github.com/gustavosilvabr/Aplicativo_Cronometro/assets/79516858/94c2c41c-913b-40cb-80df-71c0bce70cb3">
+
+## Contribuição
+
+Se você quiser contribuir com este projeto, siga os passos abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature (`git checkout -b feature/sua-feature`).
+3. Commit suas alterações (`git commit -m 'Adiciona uma nova feature'`).
+4. Faça o push para a branch (`git push origin feature/sua-feature`).
+5. Abra um Pull Request.
